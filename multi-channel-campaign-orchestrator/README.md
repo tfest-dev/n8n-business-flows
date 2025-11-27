@@ -2,6 +2,8 @@
 
 This workflow coordinates a marketing campaign across multiple channels (email, ads, CRM, and internal comms) and keeps everything in sync.
 
+<img src=flow-executed-n8n.png alt="Successful execution in n8n"/>
+
 ## Business value
 
 - Reduces manual setup work across tools when launching campaigns.
